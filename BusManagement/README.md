@@ -101,7 +101,7 @@ In your JSP/Servlet DB config file (e.g., `dbconfig.jsp`):
 
 ## 🌐 How to Run Without Eclipse (for Non-Technical Users)
 
-> Use this method if you want to run the project directly with Tomcat and MySQL, without using any IDE.
+> Use this method if you want to run the project directly with Tomcat and MySQL,without using any IDE.
 
 ---
 
