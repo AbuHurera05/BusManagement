@@ -24,13 +24,13 @@ BusManagementSystem/
 
 ````
 ### 🏠 Home Page
-![Home Page](/screenshots/home.jpg)
+![Home Page](screenshots/home.JPG)
 
 ### 🔐 Login Page
-![Login Page](/screenshots/login.jpg)
+![Login Page](screenshots/login.JPG)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](/screenshots/admin.jpg)
+![Admin Dashboard](screenshots/admin.JPG)
 
 ---
 
@@ -86,7 +86,7 @@ In your JSP/Servlet DB config file (e.g., `dbconfig.jsp`):
 <%
     String url = "jdbc:mysql://localhost:3306/bus_management";
     String user = "root";
-    String password = "your_mysql_password";
+    String password = "root";
 %>
 ````
 
