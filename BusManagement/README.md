@@ -24,13 +24,13 @@ BusManagementSystem/
 
 ````
 ### 🏠 Home Page
-![Home Page](screenshots/home.jpg)
+![Home Page](/screenshots/home.jpg)
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.jpg)
+![Login Page](/screenshots/login.jpg)
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](screenshots/admin.jpg)
+![Admin Dashboard](/screenshots/admin.jpg)
 
 ---
 
