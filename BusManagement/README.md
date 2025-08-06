@@ -172,8 +172,8 @@ http://localhost:8080/BusManagementSystem/
 
 ## 📞 Support
 
-**Developer**: Abdu Rehman
-**Email**: [your-email@example.com](mailto:your-email@example.com)
+**Developer**: Abdu Hurera
+**Email**: [junejoabuhurera52@gmail.com](mailto:junejoabuhurera52@gmail.com)
 
 ---
 
@@ -181,11 +181,3 @@ http://localhost:8080/BusManagementSystem/
 
 This project is for educational and demo purposes only. Not for commercial use without permission.
 
-```
-
----
-
-Agar aap chahein to main aap ke liye **Bus Management System** ka WAR file + SQL file + yeh README ek **ZIP package** mein bana ke step-by-step setup ready kar doon, taake non-technical user ko sirf double-click karke chalana ho.  
-
-Kya aap chahte hain main ye ZIP packaging ka guide bana doon?
-```
